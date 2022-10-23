@@ -1,2 +1,2 @@
 # Movies4u
-A movie app with HTML CSS JS
+A movie Review app with HTML CSS JS
